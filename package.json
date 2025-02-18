@@ -1,17 +1,16 @@
 {
   "name": "@umit-turk/react-native-num-pad",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "A customizable numeric keypad component for React Native applications",
-  "main": "dist/src/components/NumPad.js",
-  "types": "dist/src/components/NumPad.d.ts",
+  "main": "lib/NumPad.js",
+  "types": "lib/NumPad.d.ts",
   "files": [
-    "dist",
+    "lib",
     "README.md"
   ],
   "scripts": {
-    "build": "rm -rf dist && tsc",
-    "prepare": "npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rm -rf lib && tsc",
+    "prepare": "npm run build"
   },
   "keywords": [
     "react-native",

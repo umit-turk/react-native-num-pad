@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { StyleSheet, View, Text, SafeAreaView } from 'react-native';
-import { NumPad } from './src/components/NumPad';
+import { NumPad } from './lib/NumPad';
 
 export default function App() {
   const [value, setValue] = useState<string>('');

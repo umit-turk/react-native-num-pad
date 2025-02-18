@@ -2,16 +2,15 @@
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
-    "lib": ["es6", "dom"],
     "declaration": true,
-    "outDir": "./dist",
+    "outDir": "./lib",
     "strict": true,
-    "jsx": "react",
+    "jsx": "react-native",
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "lib": ["es6", "dom"]
   },
   "include": ["src"],
-  "exclude": ["node_modules", "dist", "example"]
+  "exclude": ["node_modules", "lib"]
 }
