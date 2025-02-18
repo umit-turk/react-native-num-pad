@@ -11,6 +11,8 @@ A highly customizable numeric keypad component for React Native applications. Th
 - 💪 Written in TypeScript
 - ⚡ Lightweight and performant
 
+  ![Image](https://github.com/user-attachments/assets/924eaae5-5a17-425a-bb04-29d9ae18fb2d)
+
 ## Installation
 
 ```bash
