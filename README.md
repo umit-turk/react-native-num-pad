@@ -14,11 +14,9 @@ A highly customizable numeric keypad component for React Native applications. Th
 ## Installation
 
 ```bash
-npm install react-native-num-pad
-```
-
-```bash
-yarn add react-native-num-pad
+npm install @umit-turk/react-native-num-pad
+# or
+yarn add @umit-turk/react-native-num-pad
 ```
 
 ### Dependencies
@@ -36,7 +34,7 @@ yarn add react-native-svg
 ```jsx
 import React, { useState } from 'react';
 import { View, Text } from 'react-native';
-import { NumPad } from 'react-native-num-pad';
+import { NumPad } from '@umit-turk/react-native-num-pad';
 
 const Example = () => {
   const [value, setValue] = useState('');
@@ -109,4 +107,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT © [Your Name] # react-native-num-pad
+MIT © [Ümit Yaşar Türk]

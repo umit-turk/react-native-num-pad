@@ -1,5 +1,5 @@
 {
-  "name": "react-native-num-pad",
+  "name": "@umit-turk/react-native-num-pad",
   "version": "1.0.0",
   "description": "A customizable numeric keypad component for React Native applications",
   "main": "dist/index.js",
@@ -18,7 +18,7 @@
     "ios",
     "android"
   ],
-  "author": "Your Name",
+  "author": "Ümit Yaşar Türk",
   "license": "MIT",
   "repository": {
     "type": "git",
