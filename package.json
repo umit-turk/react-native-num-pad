@@ -1,6 +1,6 @@
 {
   "name": "@umit-turk/react-native-num-pad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable numeric keypad component for React Native applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
