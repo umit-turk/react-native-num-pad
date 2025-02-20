@@ -1,6 +1,6 @@
 {
   "name": "@umit-turk/react-native-num-pad",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A customizable numeric keypad component for React Native applications",
   "main": "lib/NumPad.js",
   "types": "lib/NumPad.d.ts",
@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/react-native-num-pad.git"
+    "url": "git+https://github.com/umit-turk/react-native-num-pad.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-native-num-pad/issues"
+    "url": "https://github.com/umit-turk/react-native-num-pad/issues"
   },
-  "homepage": "https://github.com/yourusername/react-native-num-pad#readme",
+  "homepage": "https://github.com/umit-turk/react-native-num-pad#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-native": ">=0.60.0",
